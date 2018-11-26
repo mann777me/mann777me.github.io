@@ -1,0 +1,41 @@
+h1 {
+	color: white;
+	text-align: center;
+
+}
+
+body {
+	background-image: url(http://www.brandquarterly.com/wp-content/uploads/2017/11/The-Great-Eight-Top-Tips-For-Building-A-Disruptive-Startup-Q.jpg);
+	; 
+}
+
+div {
+	background-position: center;
+}
+
+p {
+	color: white; 
+	font-size: 25px; 
+	font-family: georgia; 
+	text-align: center;
+	margin-top: 380px; 
+}
+
+button {
+
+}
+
+.btn {
+	font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 600px;
+  vertical-align: center;
+
+}
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
